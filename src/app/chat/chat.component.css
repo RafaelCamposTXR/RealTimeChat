@@ -1,0 +1,8 @@
+.chat-container {
+  display: flex;
+  width: 100vw;
+}
+
+.main-chat{
+  flex-grow:1;
+}
